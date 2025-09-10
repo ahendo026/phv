@@ -17,7 +17,7 @@ Consumer-facing health data app that enables individuals to record, store, and s
 ### Integrations / Partnerships
 - GitHub / ODrive for storage & code management  
 - Email and social media for outreach  
-- Connected with USCDCSS, OpenHealth, Longevity AI, Sandbox Health, Forums / FHIR  
+- OpenHealth, LandingAI, Samuri Health - Forums / FHIR  
 
 ### Target Users / Market
 - Individuals aged 50–75 focused on healthy aging  
